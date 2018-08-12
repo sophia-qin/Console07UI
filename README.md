@@ -1,5 +1,6 @@
 # Console07UI
-Console 07 
+Welcome to console 7 aka the best console!
+
 Games include: Pachinko, TCT Game, Variable Friction, and Poolshot
  
 # Pachinko
